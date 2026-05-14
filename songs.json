@@ -1,1 +1,32 @@
-
+[
+  {
+    "title": "Line Without A Hook",
+    "artist": "Rick Montgomery",
+    "src": "https://raw.githubusercontent.com/denture06/my-music-cloud/main/linewithoutahook.mp3"
+  },
+  {
+    "title": "Lost On You",
+    "artist": "LP",
+    "src": "https://raw.githubusercontent.com/denture06/my-music-cloud/main/lostonyou.mp3"
+  },
+  {
+    "title": "Masterpiece",
+    "artist": "Motionless In White",
+    "src": "https://raw.githubusercontent.com/denture06/my-music-cloud/main/masterpiece.mp3"
+  },
+  {
+    "title": "Sweet Little Lies",
+    "artist": "Bulow",
+    "src": "https://raw.githubusercontent.com/denture06/my-music-cloud/main/sweetlittleliesagain.mp3"
+  },
+  {
+    "title": "Which Version Of Me",
+    "artist": "Snow Wife",
+    "src": "https://raw.githubusercontent.com/denture06/my-music-cloud/main/whichversionofme.mp3"
+  },
+  {
+    "title": "Happy",
+    "artist": "SkinnyFabs",
+    "src": "https://raw.githubusercontent.com/denture06/my-music-cloud/main/happy.mp3"
+  }
+]
